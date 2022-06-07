@@ -9,7 +9,7 @@ import {
   Pressable,
   Linking,
   TextInput,
-  Share
+  Share,
   
 } from "react-native";
 
